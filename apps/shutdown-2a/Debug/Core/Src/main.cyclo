@@ -1,0 +1,7 @@
+../Core/Src/main.c:94:5:main	1
+../Core/Src/main.c:153:6:SystemClock_Config	4
+../Core/Src/main.c:208:13:SystemPower_Config	1
+../Core/Src/main.c:233:6:serialPutStr	1
+../Core/Src/main.c:238:6:system_powersave	1
+../Core/Src/main.c:271:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:288:6:Error_Handler	1
